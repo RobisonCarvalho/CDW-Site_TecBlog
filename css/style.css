@@ -22,6 +22,7 @@ body {
 }
 
 #area-principal {
+    padding: 15px;
     background: #e6e6e6;
     width: 920px;
     margin: 0 auto;
